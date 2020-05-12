@@ -1,4 +1,4 @@
-# Genome-Barcoder-Reverser
+# Genome-Barcode-Reverser
 Command line application to get reverse barcodes and their frequencies in genome sequences.
 
 1. Run barcode_reverse_pair.py in Linux Terminal
