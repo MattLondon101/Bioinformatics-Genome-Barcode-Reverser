@@ -4,7 +4,7 @@ Command line application to get reverse barcodes and their frequencies in genome
 1. Run barcode_reverse_pair.py in Linux Terminal
 
 2. You will be given three user input prompts:   
-"Enter path to .fastq file:"  
+"Enter path to .fastq file:" (.fasta can also be used) 
 "Enter start position of sequence:"  
 "Enter stop position of sequence:"  
 
