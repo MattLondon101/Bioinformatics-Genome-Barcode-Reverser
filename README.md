@@ -13,5 +13,5 @@ Command line application to get reverse barcodes and their frequencies in genome
 "Memory usage of program = * MB"
 
 4. Two CSV files will be written to the wkdir:  
-*paired_barcodes_revcomps.csv : Barcode and Reverse Barcode pairs and their frequency counts.  
-*unpaired_barcodes.csv. : Unpaired barcodes and their frequency counts.
+* paired_barcodes_revcomps.csv : Barcode and Reverse Barcode pairs and their frequency counts.  
+* unpaired_barcodes.csv. : Unpaired barcodes and their frequency counts.
